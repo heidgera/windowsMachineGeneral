@@ -1,0 +1,7 @@
+[submodule "src/libraries/muse"]
+path = src/libraries/muse
+url = https://github.com/heidgera/Muse
+
+[submodule "src/libraries/retroWin"]
+path = src/libraries/retroWin
+url = https://github.com/heidgera/retroWin
