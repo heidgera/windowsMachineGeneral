@@ -9,7 +9,7 @@ sudo apt-get install --no-install-recommends xserver-xorg xinit xserver-xorg-vid
 
 echo "\nClone the application"
 
-git clone https://github.com/scimusmn/windowsMachineGeneral.git
+git clone https://github.com/heidgera/windowsMachineGeneral.git
 
 cd windowsMachineGeneral
 
