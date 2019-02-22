@@ -9,15 +9,9 @@ sudo apt-get install --no-install-recommends xserver-xorg xinit xserver-xorg-vid
 
 echo "\nClone the application"
 
-git clone https://github.com/heidgera/windowsMachineGeneral.git
+git clone --recurse-submodules https://github.com/heidgera/windowsMachineGeneral.git
 
 cd windowsMachineGeneral
-
-echo "\nInit the submodules:"
-
-git submodule init
-
-git submodule update
 
 echo "\nInstalling dependencies for application:"
 
