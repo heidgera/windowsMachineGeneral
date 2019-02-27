@@ -21,4 +21,4 @@ echo "\nConfiguring"
 
 cd piFig
 
-sudo node installPi.js
+sudo node install.js
